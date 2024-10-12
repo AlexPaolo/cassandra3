@@ -9,12 +9,6 @@ services:
       - "./ny_taxi_cassandra:/var/lib/cassandra:rw"
     ports:
       - "9042:9042"
-  jupyter:
-    image: jupyter/datascience-notebook:latest
-    volumes:
-      - ./:/home/jovyan/work
-    ports:
-      - "8888:8888"
 
 
 
