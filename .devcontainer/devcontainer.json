@@ -8,7 +8,7 @@
     "postCreateCommand": "",
     "customizations": {
       "codespaces": {
-        "openFiles": ["new.ipynb"]
+        "openFiles": ["09.Exercise1.ipynb"]
       },
       "vscode": {
         "extensions": [
