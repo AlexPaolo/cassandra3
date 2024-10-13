@@ -4,8 +4,8 @@
       "cpus": 4
     },
     "waitFor": "onCreateCommand",
-    "updateContentCommand": "python3 -m pip install -r requirements.txt",
-    "postCreateCommand": "docker-compose up -d",
+    "updateContentCommand": "python3 -m pip install -r requirements.txt && docker-compose up -d",
+    "postCreateCommand": "",
     "customizations": {
       "codespaces": {
         "openFiles": ["09.Exercise1.ipynb"]
