@@ -1,5 +1,4 @@
-# NoSQL Cassandra Exercises
-[Data Engineer BAI](https://www.bootcampai.org/courses/nanodegree-data-engineer)
+# NoSQL Cassandra Exercises Data Engineer BAI
 
 [09. Exercise 1](https://www.bootcampai.org/courses/nanodegree-data-engineer/lesson/09-exercise-1/) - [Notebook Exercise 1](/Notebooks/09.Exercise1.ipynb)
 
